@@ -32,6 +32,7 @@ These instructions will help you get your project up and running.
      6. COOKIE_EXPIRE_TIME=90d
 
   4. Then Run this command in terminal to start the server
+     ```bash
      npm start
 
      
